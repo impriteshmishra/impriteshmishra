@@ -20,13 +20,13 @@ I'm a final-year B.Tech student at **I.K. Gujral Punjab Technical University**, 
 🔹 [Labor Renting Platform](#) - Connecting workers with job opportunities.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritesh%20Mishra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pritesh-mishra)
-[![GitHub](https://img.shields.io/badge/GitHub-pritesh--mishra-black?style=flat&logo=github)](https://github.com/pritesh-mishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=vercel)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritesh%20Mishra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/im-priteshmishra/)
+[![GitHub](https://img.shields.io/badge/GitHub-pritesh--mishra-black?style=flat&logo=github)](https://github.com/impriteshmishra)
+
 
 ## 📊 GitHub Stats
-![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritesh-mishra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh-mishra&layout=compact&theme=radical)
+![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=impriteshmishra&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=impriteshmishra&layout=compact&theme=radical)
 
 ---
 ⭐ **Feel free to check out my repositories and contribute!** 🚀
