@@ -9,7 +9,7 @@ I'm a final-year B.Tech student at **I.K. Gujral Punjab Technical University**, 
 - **Database:** MySQL, Firebase, PostgreSQL
 - **Dev Tools & Cloud:** Git, GitHub, Docker, Render, Vercel, Netlify
 - **IoT & Embedded:** Arduino, Raspberry Pi, Sensors, Robotics
-- **Languages:** C++, JavaScript, Python
+- **Languages:** C++, JavaScript, Java(Basic)
 
 ## 💻 Projects
 🔹 [People-Link](#) - A social media platform with chat, posts, and user interactions.
