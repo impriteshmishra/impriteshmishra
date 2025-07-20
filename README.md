@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** and a 2025 graduate in **Electronics a
 
 - [My Portfolio](https://my-portfolio-bice-ten-72.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/im-priteshmishra/)
-- [Twitter](https://x.com/pritesh_misra)
+- [X](https://x.com/pritesh_misra)
 - Email: priteshmishra2125@gmail.com
 
 ---
