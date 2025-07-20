@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** and a 2025 graduate in **Electronics a
 
 ## 🚀 Tech Stack
 
-- **Language**: C++, JavaScript, TypeScript, SQL
+- **Languages**: C++, JavaScript, TypeScript, SQL
 - **Frontend**: React.js, Next.js, Tailwind CSS, HTML, CSS
 - **Backend**: Node.js, Express.js, REST APIs, Redis
 - **Database**: MongoDb, MySql, PostgreeSql, Prisma
